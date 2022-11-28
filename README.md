@@ -1,8 +1,8 @@
 # 2book-search
 
-Project's Title:
+PROJECT TITLE:
 
-The name of the assignment is book-earch-engine.
+The name of the assignment is 2book-search.
 
 MOTIVATION:
 
